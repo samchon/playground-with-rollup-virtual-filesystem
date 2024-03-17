@@ -1,0 +1,27 @@
+{
+  "name": "playground-with-rollup-virtual-filesystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "prettier": "^3.2.5",
+    "rollup": "^4.13.0",
+    "rollup-plugin-hypothetical": "^2.1.1",
+    "tslib": "^2.6.2",
+    "typescript": "^5.4.2",
+    "typia": "^5.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.28"
+  }
+}
